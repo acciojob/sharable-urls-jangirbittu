@@ -1,1 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
 
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #333;
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+button {
+    cursor: pointer;
+}
+
+form {
+    margin-bottom: 20px;
+}
